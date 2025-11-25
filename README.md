@@ -40,4 +40,4 @@ Nosso grupo teve a idéia de criar um software que atua na área da saúde digit
 <img width="567" height="451" alt="email1" src="https://github.com/user-attachments/assets/f9c54f75-525b-4e84-82d1-27db378a366d" />
 
 <p>Esquema de endereçamento de IP</p>
-<img width="512" height="288" alt="endereço1" src="https://github.com/user-attachments/assets/3a54a14e-f5a5-4ac8-8c7e-5318fa6b82d3" />
+<img width="567" height="451" alt="endereço1" src="https://github.com/user-attachments/assets/3a54a14e-f5a5-4ac8-8c7e-5318fa6b82d3" />
