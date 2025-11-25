@@ -23,12 +23,21 @@ Nosso grupo teve a idéia de criar um software que atua na área da saúde digit
 <p><b>Planta da unidade Filial:</b></p>
 <img width="567" height="246" alt="planta2" src="https://github.com/user-attachments/assets/5dd4c1c6-898e-48c5-87d7-3d3407e88fa0" />
 
-## Topologia (Packet Tracer)
+## Topologia e Configuração da Rede (Packet Tracer)
 <p><b>Topologia unidade Matriz:</b></p>
 <img width="567" height="253" alt="topologia1" src="https://github.com/user-attachments/assets/2a1e4e82-3033-4f2d-bdf5-27df7ef0bab4" />
 
 <p><b>Topologia unidade Filial:</b></p>
 <img width="567" height="296" alt="topologia2" src="https://github.com/user-attachments/assets/6aa92763-bd65-426c-8979-f88e550a74c5" />
 <p></p>
-<p>HTTP: Serviço do Webserver Contido no servidor 192.168.10.16, de nomenclatura no DNS como www.swifthealth.com.br</p>
+<p><b>HTTP:</b> Serviço do Webserver Contido no servidor 192.168.10.16, de nomenclatura no DNS como www.swifthealth.com.br</p>
 <img width="461" height="467" alt="serv1" src="https://github.com/user-attachments/assets/ce4d653f-2710-4557-afa7-a28e3f2d79fe" />
+
+<p><b>O Webserver</b> pode ser acessado por qualquer integrante da rede:</p>
+<img width="567" height="451" alt="site1" src="https://github.com/user-attachments/assets/715ff200-ab4b-43cf-81e3-ac7bf26c8926" />
+
+<p><b>EMAIL:</b> Serviço de Simple Mail Transfer Protocol contido no servidor 192.168.10.16, de nomenclatura no DNS como “EMAIL”. Utiliza o domain name “www.swifthealth.com” e permite com que usuários previamente registrados e logados em um computador da rede enviar emails.</p>
+<img width="567" height="451" alt="email1" src="https://github.com/user-attachments/assets/f9c54f75-525b-4e84-82d1-27db378a366d" />
+
+<p>Esquema de endereçamento de IP</p>
+<img width="512" height="288" alt="endereço1" src="https://github.com/user-attachments/assets/3a54a14e-f5a5-4ac8-8c7e-5318fa6b82d3" />
